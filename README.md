@@ -64,7 +64,7 @@ The following models were tested:
 - Decision Tree Regressor 
 - Random Forest Regressor 
 
-The final model chosen was Random Forest Regressor after comparing the results with the other models.
+The final model chosen was Decision Tree Regressor after comparing the results with the other models.
 
 Train/test split:
 - 85% training 
@@ -75,12 +75,12 @@ Train/test split:
 ## Results
 Final model performance:
 - MAE: ~64.7 
-- RMSE: ~95.5 
-- R²: ~-0.26 
+- RMSE: ~91.2 
+- R²: ~-0.15 
 
 Example:
 - Input: food = yes, engagement = 479 
-- Predicted attendance: ~250 
+- Predicted attendance: ~ 309
 - Actual attendance: 309 
 
 ---
